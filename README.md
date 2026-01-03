@@ -42,7 +42,7 @@ Due to the huge influx of new players for Subnautica the Issue tracker turned in
 
 Keep in mind that your issue may already exist. You can peruse the existing issues here on Github.
 
-How can I donate?
+### How can I donate?
 We do not accept donations to the mod. Those wishing to give money can do so here: https://www.doctorswithoutborders.org
 
 ### Installation  
